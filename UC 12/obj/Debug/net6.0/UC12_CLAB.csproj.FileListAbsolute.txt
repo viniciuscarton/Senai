@@ -1,0 +1,15 @@
+C:\Users\Vinicius\Desktop\vscode\UC12_CLAB\bin\Debug\net6.0\UC12_CLAB.exe
+C:\Users\Vinicius\Desktop\vscode\UC12_CLAB\bin\Debug\net6.0\UC12_CLAB.deps.json
+C:\Users\Vinicius\Desktop\vscode\UC12_CLAB\bin\Debug\net6.0\UC12_CLAB.runtimeconfig.json
+C:\Users\Vinicius\Desktop\vscode\UC12_CLAB\bin\Debug\net6.0\UC12_CLAB.dll
+C:\Users\Vinicius\Desktop\vscode\UC12_CLAB\bin\Debug\net6.0\UC12_CLAB.pdb
+C:\Users\Vinicius\Desktop\vscode\UC12_CLAB\obj\Debug\net6.0\UC12_CLAB.csproj.AssemblyReference.cache
+C:\Users\Vinicius\Desktop\vscode\UC12_CLAB\obj\Debug\net6.0\UC12_CLAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\vscode\UC12_CLAB\obj\Debug\net6.0\UC12_CLAB.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\vscode\UC12_CLAB\obj\Debug\net6.0\UC12_CLAB.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\vscode\UC12_CLAB\obj\Debug\net6.0\UC12_CLAB.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\vscode\UC12_CLAB\obj\Debug\net6.0\UC12_CLAB.dll
+C:\Users\Vinicius\Desktop\vscode\UC12_CLAB\obj\Debug\net6.0\refint\UC12_CLAB.dll
+C:\Users\Vinicius\Desktop\vscode\UC12_CLAB\obj\Debug\net6.0\UC12_CLAB.pdb
+C:\Users\Vinicius\Desktop\vscode\UC12_CLAB\obj\Debug\net6.0\UC12_CLAB.genruntimeconfig.cache
+C:\Users\Vinicius\Desktop\vscode\UC12_CLAB\obj\Debug\net6.0\ref\UC12_CLAB.dll
