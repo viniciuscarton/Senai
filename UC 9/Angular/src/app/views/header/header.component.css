@@ -1,0 +1,152 @@
+header {
+    display: flex;
+    background-color: rgba(14, 14, 17, 1);
+    height: 220px;
+}
+.logo {
+    width: 10px;
+}
+
+.logo img { 
+    position: relative;
+    display: flex;
+    top: 40px;
+    left: 40px;  
+} 
+
+.topo {  
+    position: absolute;
+    top: 10px;
+    right: 20px; 
+}
+
+.topo a {
+    font-family: 'Lato', sans-serif;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none !important;
+    font-size: 15px;
+    font-weight: 300;
+    padding: 10px;
+    opacity: 50%; 
+}
+
+.pesquisar {
+    position: relative;
+    top: 25px;
+    left: 10px;  
+    margin-right: 10px;  
+}
+
+.pesquisar img {
+    width: 42px;
+    top: 60px;
+    right: 0px;
+   
+}
+
+.barrap {
+    position:relative;
+    top: 35px;
+    left: 500px; 
+}
+
+.barrap input {
+    background-color: white;
+    height: 42px;
+    border-radius: 10px;
+    border-color: black;
+    font-size: 15px;
+    padding-left: 10px;
+    align-items: center;
+}
+
+.botoes {
+    position: absolute;
+    top: 80px;
+    right: 20px;
+}
+  
+.botoes img {   
+    width: 40px;
+    padding-left: 10px;
+}
+
+.menu { 
+    display:flex;
+    justify-content:space-evenly;
+    position: absolute; 
+    top: 150px;
+    height: 50px;
+    width: 100%;
+    align-items: center;
+    background-color: rgba(26, 26, 26, 1);
+    z-index: 1;
+ }
+ 
+ .icone-menu {
+     position: absolute;
+     right: 20px;
+     top: 151px;
+     z-index: 1;
+ }
+ 
+ .menu a  {
+     color: rgba(255, 255, 255, 1);
+     font-family: 'Lato', sans-serif;
+     text-decoration: none;
+     text-transform: uppercase;   
+     font-size: 20px; 
+ }
+
+  @media screen and (max-width: 1250px) {
+    .menu {
+        width: 400px;
+        height: 400px;
+        right: 0px;
+        flex-direction: column;
+        background-color: rgba(26, 26, 26, 1);
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    #barras {
+        display: inline-block;
+    }
+
+    main {
+        height: 1670px;
+
+    }
+
+    .item-3 {
+        margin-top: 50px;
+    }
+
+    .item-1, .item-2, .item-3 {
+        width: auto;
+        height: auto;
+    }
+
+    .item-1 img, .item-2 img, .item-3 img {
+        transform: scale(0.7);
+        margin: 0px;
+    }
+
+    .item-1 img {
+        top: 60px;
+    }
+
+    .item-2 img {
+        left: 80px;
+    }
+
+    .item-3 img {
+        right: 80px;
+        top: 50px
+    }
+     .barrap {
+         display: none;
+    }
+}
+ 

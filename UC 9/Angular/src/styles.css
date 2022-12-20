@@ -1,0 +1,16 @@
+/* CSS Reset */
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-grid {
+    display: flex;
+    width: 1200px;
+    height: 250px;
+    background-color: rgba(14, 14, 17, 1);
+}

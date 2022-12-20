@@ -1,0 +1,30 @@
+<!-- <header>
+    <nav id="menu" class="menu">              
+         <a href="#">Lançamentos</a>
+         <a href="#">Consoles</a>
+         <a href="#">Acessórios</a>
+         <a href="#">Jogos</a>
+         <a href="#">Pc Gamer</a>
+     </nav>
+</header> -->
+<main>
+ <div class="container-login">
+     <div class="blurred">
+     </div>
+     <div class="login">
+         <h1>Login</h1>
+         <form (ngSubmit)="receberDados()">
+             <div class="dados">
+                 <label class="email" for="email">E-mail</label>
+                 <input class= "input-e" type="email" name="email" id="email" placeholder="Digite o seu e-mail" autocomplete="off" [(ngModel)]="userModel.email">
+                 <label class="senha" for="senha">Senha</label>
+                 <input class = "input-s" type="password" name="password" id="password" placeholder="Digite a sua senha" [(ngModel)]="userModel.password">
+                 <a class="esqueceu" href="#" id="forgot-pass">Esqueceu a senha?</a>
+             </div>
+             <button class="fazer-login">
+                 <span class="texto-botao">Fazer login</span>
+             </button>  
+         </form>  
+     </div>
+ </div>
+</main>

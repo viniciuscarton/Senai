@@ -1,0 +1,115 @@
+footer {
+    display:flex;
+    position: relative;
+    text-align: center; 
+    height:800px;
+    background-color:rgba(26, 26, 26, 1);
+    padding: 30px;
+}
+
+.colunas-rodape p {
+    font-weight: 300;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    text-transform: uppercase;
+    opacity: 50%;
+}
+
+.left {
+    position: absolute;
+    width: 33.3%;
+    left: 0;
+}
+
+.icones-redes img{
+    width: 70px;
+    padding: 10px;
+    padding-top: 20px;
+}
+
+.bottom a {
+    position: relative;
+    top: 450px;
+    margin-right: 15px;
+    font-weight: 700;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.center {
+    position: absolute;
+    width: 33.3%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.texto-sobre-nos p{
+    display: inline-block;
+    padding-top: 20px;
+    text-transform:initial;
+    font-weight: 100;
+    opacity: 50%;
+}
+
+.copyright {
+    position: relative;
+    top: 200px;
+}
+
+.copyright img{
+    width: 160px;
+}
+
+.copyright p {
+    font-weight: 100;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    text-transform: initial;
+    opacity: 50%;
+}
+
+.right {
+    position: absolute;
+    width: 33.3%;
+    right: 0;
+    top: 30px;
+}
+
+.pagamento img {
+    width: 70px;
+    align-items:center;
+    padding: 10px;
+}
+
+.idioma {
+    display: inline-block;
+    position: relative;
+    top:100px;
+    align-items: center;
+}
+
+.idioma p{
+    display: inline-block;
+    font-weight: 700;
+    font-size: 12px;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    position: relative;
+    right: 10px;
+    opacity: 100%;
+}
+
+.next {
+    width: 20px;
+    float: right;
+}
+
+.bandeira {
+    height: 20px;
+    float: left;
+    margin-right: 23px;
+}
