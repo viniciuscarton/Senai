@@ -35,3 +35,8 @@
 💻 **Unidade 15: Testes de Back End** 
 * C#;
 * Microsoft Visual Studio.
+
+ 📝 **Legenda:**
+ <br /> AO: Atividade online
+ <br /> ER: Encontro remoto
+
